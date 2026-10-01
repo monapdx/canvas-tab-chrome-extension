@@ -22,6 +22,16 @@ A local-first Chrome new-tab whiteboard. No build step, accounts, API keys, or r
 - Pan with the Hand tool, Alt+drag, middle-button drag, or scroll. Ctrl/Cmd+scroll zooms around the pointer.
 - Front/back controls change the stacking order.
 
+## Screenshots
+
+### Editor
+
+<img src="https://raw.githubusercontent.com/monapdx/canvas-tab-chrome-extension/refs/heads/main/canvas-tab/editor.png">
+
+### View Mode
+
+<img src="https://raw.githubusercontent.com/monapdx/canvas-tab-chrome-extension/refs/heads/main/canvas-tab/view.png">
+
 ## Widgets
 Enter HTML, CSS and JavaScript in the widget editor. Double-click a widget to enable interaction; double-click its top label to return to moving/resizing. Select it and press Edit to change its code.
 
