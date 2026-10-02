@@ -58,3 +58,9 @@ Each bookmark widget starts in compact View mode: one link per row, with the ful
 
 ## One-time title permission (v1.7)
 Inside a bookmark widget, click **Edit links → Enable automatic titles**. Accept Chrome's one-time request for all HTTP/HTTPS websites. Subsequent blank-name bookmarks fetch titles without opening permission dialogs. Existing per-site grants also work. Adding links now only checks permissions; if access is missing or revoked, it quietly uses the domain name. Granting broad access is optional and can be revoked in Chrome's extension settings.
+
+## Text editing fix (v1.7.1)
+New text and notes enter editing immediately. Click inside an existing text box or note to type. Edits save while you type; press Escape or click outside to finish. When selected, use the **Drag to move** label above the text object to move it, or its handles to resize. Clean view still disables editing.
+
+## Text and note appearance (v1.7.2)
+Select a text box or note and use **Background** to set its background color, or **Transparent** to remove it. **Chunky border** now works on images, text, and notes, with a black default and an adjustable color and thickness. Background and border settings save with the board and support duplication and undo. Existing image border colors are preserved.

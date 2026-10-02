@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Canvas Tab \u2014 Your Creative Workspace",
-  "version": "1.7.0",
+  "version": "1.7.3",
   "description": "A persistent new-tab whiteboard with drawing, images, text, stickers and custom widgets.",
   "chrome_url_overrides": {
     "newtab": "index.html"
