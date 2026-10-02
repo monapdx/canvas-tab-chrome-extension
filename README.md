@@ -3,6 +3,9 @@ A local-first Chrome new-tab whiteboard. No build step, accounts, API keys, or r
 
 <img src="https://raw.githubusercontent.com/monapdx/canvas-tab-chrome-extension/refs/heads/main/canvas-tab/banner.png">
 
+<p align="center"><img src="https://raw.githubusercontent.com/monapdx/canvas-tab-chrome-extension/refs/heads/main/canvas-tab/hot-pink-check.gif" height="100"> <img src="https://raw.githubusercontent.com/monapdx/canvas-tab-chrome-extension/refs/heads/main/canvas-tab/beakers.gif" height="100"> <img src="https://raw.githubusercontent.com/monapdx/canvas-tab-chrome-extension/refs/heads/main/canvas-tab/photo.gif" height="100"></p>
+
+
 ## Install
 1. Extract this ZIP into a permanent folder.
 2. Open chrome://extensions in Chrome.
