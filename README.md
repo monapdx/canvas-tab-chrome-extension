@@ -35,6 +35,10 @@ A local-first Chrome new-tab whiteboard. No build step, accounts, API keys, or r
 
 <img src="https://raw.githubusercontent.com/monapdx/canvas-tab-chrome-extension/refs/heads/main/canvas-tab/view.png">
 
+### Canvas Demo
+
+<img src="https://raw.githubusercontent.com/monapdx/canvas-tab-chrome-extension/refs/heads/main/canvas-tab/canvas-tab-demo.gif">
+
 ## Widgets
 Enter HTML, CSS and JavaScript in the widget editor. Double-click a widget to enable interaction; double-click its top label to return to moving/resizing. Select it and press Edit to change its code.
 
