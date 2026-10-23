@@ -5,6 +5,10 @@ A local-first Chrome new-tab whiteboard. No build step, accounts, API keys, or r
 
 <p align="center"><img src="https://raw.githubusercontent.com/monapdx/canvas-tab-chrome-extension/refs/heads/main/canvas-tab/hot-pink-check.gif" height="100"> <img src="https://raw.githubusercontent.com/monapdx/canvas-tab-chrome-extension/refs/heads/main/canvas-tab/beakers.gif" height="100"> <img src="https://raw.githubusercontent.com/monapdx/canvas-tab-chrome-extension/refs/heads/main/canvas-tab/photo.gif" height="100"></p>
 
+## Install for Google Chrome
+
+[![googlechrome](https://www.readmecodegen.com/api/social-icon?name=googlechrome&link=https%3A%2F%2Fchromewebstore.google.com%2Fdetail%2Fcanvas-tab-%25E2%2580%2594-new-tab-whit%2Fgloepckokonddaijfggpbgabgomfafdn)](https://chromewebstore.google.com/detail/canvas-tab-%E2%80%94-new-tab-whit/gloepckokonddaijfggpbgabgomfafdn)
+
 
 ## Install
 1. Extract this ZIP into a permanent folder.
